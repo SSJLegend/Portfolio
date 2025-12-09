@@ -1,7 +1,7 @@
 # Portfolio
 Portfolio of projects I've worked on from my other accounts that I managed to obtain:
 
-================================================================================================
+=============================================================================================
 
 **Day Zero - React Expo Mobile App**:
 https://github.com/DayZeroApp/DayZeroApp/tree/main
@@ -17,7 +17,9 @@ A habit-tracking mobile app focused on streaks, reflections, and clean UI/UX des
 
 **Tech Stack:** React Native, Expo, TypeScript
 
-================================================================================================
+=============================================================================================
+
+
 **Kids Cyber Security - Capstone Project built with Wix**:
 https://github.com/rkrysinski1023/kidscyberacademy
 
