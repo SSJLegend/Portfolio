@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio of projects I've worked on from my other accounts that I managed to obtain:
+A collection of selected projects from my other GitHub accounts and academic work:
 
 ============================================================================================
 
